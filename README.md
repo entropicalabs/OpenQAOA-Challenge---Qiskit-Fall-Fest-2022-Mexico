@@ -19,9 +19,9 @@ First, you will need to install OpenQAOA. The simplest way to do that is
 (if you face issues with the instal, give us a shout! Most likely, you can fix most errors by simply creating a new environment running on python3.8: follow [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) tutorial from Conda and then install openqaoa via `pip` )
 
 2. Now that you are set, you can start exploring OpenQAOA. To get started, you can:
-    2.1 Check out OpenQAOA's official documentation: - [Run your first OpenQAOA workflow](https://el-openqaoa.readthedocs.io/en/latest/notebooks/1_workflows_example.html)
-    2.2 Check out the intro notebooks that have been created especially for this challenge
-    2.3 Go to the challenge notebook!
+    1. Check out OpenQAOA's official documentation: - [Run your first OpenQAOA workflow](https://el-openqaoa.readthedocs.io/en/latest/notebooks/1_workflows_example.html)
+    2. Check out the intro notebooks that have been created especially for this challenge
+    3. Go to the [challenge notebook](./Challenge_notebook.ipynb)!
 
 ## Have fun!
 
