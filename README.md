@@ -20,7 +20,7 @@ First, you will need to install OpenQAOA. The simplest way to do that is
 
 2. Now that you are set, you can start exploring OpenQAOA. To get started, you can:
     1. Check out OpenQAOA's official documentation: - [Run your first OpenQAOA workflow](https://el-openqaoa.readthedocs.io/en/latest/notebooks/1_workflows_example.html)
-    2. Check out the intro notebooks that have been created especially for this challenge
+    2. Check out the intro notebooks such as [OpenQAOA_tutorial.ipynb](./OpenQAOA_tutorial.ipynb) that have been created especially for this challenge
     3. Go to the [challenge notebook](./Challenge_notebook.ipynb)!
 
 ## Have fun!
