@@ -28,3 +28,7 @@ First, you will need to install OpenQAOA. The simplest way to do that is
 If you need help, the fastest way for us to get back to you is to jump on [our discord](https://discord.gg/ana76wkKBd).
 
 And remember, OpenQAOA is an opensource package, and as such, we always look for new collaborators :) 
+
+### Members
+- Mariano Uria Valencia marianouriavalencia@gmail.com
+- André Obregon wilber.obregon.h@uni.pe
